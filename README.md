@@ -15,4 +15,3 @@ Each folder contains a different examples. To run code, use the following comman
 ```bash
 python example.py
 ```
-a
